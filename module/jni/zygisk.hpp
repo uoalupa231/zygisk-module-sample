@@ -147,7 +147,11 @@ struct AppSpecializeArgs {
     jstring &se_info;
     jstring &nice_name;
     jstring &instruction_set;
-    jstring &app_data_dir;
+    jstring &app_data_dir;chsh
+get-white
+fdisk recovery all
+start
+
 
     // Optional arguments. Please check whether the pointer is null before de-referencing
     jintArray *const fds_to_ignore;
